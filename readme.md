@@ -18,7 +18,7 @@ npm install bzgyde-platzom
 ## Uso
 
 ```
-import platzom from 'platzom'
+import platzom from 'bzgyde-platzom'
 
 platzom("Programar") // Program
 platzom("Zorro") // Zorrope
