@@ -1,6 +1,6 @@
 {
   "name": "bzgyde-platzom",
-  "version": "1.0.0",
+  "version": "0.2.0",
   "description": "Traductor de  idioma platzom",
   "main": "dist/src/platzom.js",
   "scripts": {
